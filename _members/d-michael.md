@@ -1,7 +1,7 @@
 ---
 name: Michael Bentsch 
 image: images/michael.jpg
-description: Research Associate
+description: Research Assistant
 role: researcher
 links:
   email: michael.bentsch@ukr.de

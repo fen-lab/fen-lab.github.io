@@ -5,9 +5,19 @@ role: researcher
 description: Postdoc
 group: 
 links:
-  github: john-doe
+  home-page: https://hk-nguyen-math.github.io
 ---
 
-### CV
-- 2018 PhD in Mathematics
-- 2014 MSc in Mathematics
+
+{% capture col1 %}
+## cv
+- 2018 PhD Mathematics, University of Regensburg
+- 2014 MSc Mathematics, University of Bonn
+- 2011 BSc Mathematics, Technical University Berlin
+{% endcapture %}
+
+{% capture col2 %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}

@@ -1,5 +1,7 @@
 ---
 title: Home
+nav:
+  order: 1
 ---
 
 We are a research group of the Department of Psychiatry at the University of Regensburg. We investigate how neurobiological alterations manifest in psychopathological symptoms.
@@ -39,8 +41,6 @@ We utilize magnetic resonance imaging (MRI), meta-analytical methods, and non-in
 {% include float.html content=content %}
 
 {% include citation.html lookup="Aberrant brain activity in pedophilia links to receptor distribution, gene expression, and behavior" %}
-
-{% include float.html clear=true %}
 
 {% include float.html clear=true %}
 

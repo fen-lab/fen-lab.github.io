@@ -14,8 +14,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  link="timm.poeppl@ukr.de"
 %}
 {%
   include button.html
@@ -26,7 +25,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}
 

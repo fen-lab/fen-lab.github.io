@@ -1,8 +1,8 @@
 ---
-name: Sarah Johnson
-image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+name: Sarah Kreuzer
+image: images/sarah.jpeg
+description: PhD Student
+role: researcher
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson

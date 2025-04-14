@@ -1,247 +1,1369 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: pubmed:39279159
+  title: Motor-evoked potentials as biomarkers for sexual arousal?
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  - Stefanie Ruhland
+  - Timm B Poeppl
+  - Stefan Schoisswohl
+  - Florian Schwitzgebel
+  - "Mirja Osnabr\xFCgge"
+  - Carolina Kanig
+  - Berthold Langguth
+  - Martin Schecklmann
+  publisher: The journal of sexual medicine
+  date: '2024-10-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39279159
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39144108
+  title: N-acetylcysteine and a Specialized Preventive Intervention for Individuals
+    at High Risk for Psychosis:\ a Randomized Double-Blind Multicenter Trial
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Sven Wasserthal
+  - Ana Muthesius
+  - "Ren\xE9 Hurlemann"
+  - Stephan Ruhrmann
+  - Stefanie J Schmidt
+  - Martin Hellmich
+  - Frauke Schultze-Lutter
+  - "Joachim Klosterk\xF6tter"
+  - "Hendrik M\xFCller"
+  - Andreas Meyer-Lindenberg
+  - Timm B Poeppl
+  - Henrik Walter
+  - Dusan Hirjak
+  - Nikolaos Koutsouleris
+  - Andreas J Fallgatter
+  - Andreas Bechdolf
+  - Anke Brockhaus-Dumke
+  - Christoph Mulert
+  - Alexandra Philipsen
+  - Joseph Kambeitz
+  publisher: Schizophrenia bulletin open
+  date: '2024-02-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39144108
+  term: Poeppl, T[Author]
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: pubmed:36841220
+  title: 'Effect of prefrontal transcranial direct current stimulation on sexual arousal:
+    A proof of concept study.'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  - Katrin Sakreida
+  - "Marissa E K\xF6hler"
+  - Berthold Langguth
+  - Martin Schecklmann
+  - Timm B Poeppl
+  publisher: Neurophysiologie clinique = Clinical neurophysiology
+  date: '2023-02-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36841220
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36481834
+  title: 'Tower of Babel or Lighthouse? The State of Research on Neuroelectric Correlates
+    of Human Sexuality: A Response to the Commentaries.'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Andreas Mokros
+  - Elmar Habermeyer
+  - Timm B Poeppl
+  - Pekka Santtila
+  - Anastasios Ziogas
+  publisher: Archives of sexual behavior
+  date: '2022-12-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36481834
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35912135
+  title: Disentangling dyskinesia from parkinsonism in motor structures of patients
+    with schizophrenia.
+  authors:
+  - Katrin Sakreida
+  - Wei-Hua Chiu
+  - Juergen Dukart
+  - Simon B Eickhoff
+  - Thomas Frodl
+  - Christian Gaser
+  - Michael Landgrebe
+  - Berthold Langguth
+  - Daniela Mirlach
+  - Ioana-Sabina Rautu
+  - Markus Wittmann
+  - Timm B Poeppl
+  publisher: Brain communications
+  date: '2022-07-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35912135
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35702547
+  title: Pattern learning reveals brain asymmetry to be linked to socioeconomic status.
+  authors:
+  - Timm B Poeppl
+  - Emile Dimas
+  - Katrin Sakreida
+  - Julius M Kernbach
+  - Ross D Markello
+  - "Oliver Sch\xF6ffski"
+  - Alain Dagher
+  - Philipp Koellinger
+  - Gideon Nave
+  - Martha J Farah
+  - "Bratislav Mi\u0161i\u0107"
+  - Danilo Bzdok
+  publisher: Cerebral cortex communications
+  date: '2022-05-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35702547
+  term: Poeppl, T[Author]
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: pubmed:35276079
+  title: 'Amisulpride and olanzapine combination treatment versus each monotherapy
+    in acutely ill patients with schizophrenia in Germany (COMBINE): a double-blind
+    randomised controlled trial.'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Christian Schmidt-Kraepelin
+  - Sandra Feyerabend
+  - Christina Engelke
+  - Mathias Riesbeck
+  - Eva Meisenzahl-Lechner
+  - Pablo-Emilio Verde
+  - Christoph U Correll
+  - Michael Kluge
+  - Christian Makiol
+  - Andrea Neff
+  - Christina Lange
+  - Susanne Englisch
+  - Mathias Zink
+  - Berthold Langguth
+  - Timm B Poeppl
+  - Dirk Reske
+  - Euphrosyne Gouzoulis-Mayfrank
+  - "Gerhard Gr\xFCnder"
+  - Alkomiet Hasan
+  - Anke Brockhaus-Dumke
+  - "Markus J\xE4ger"
+  - "Jessica Baumg\xE4rtner"
+  - Stefan Leucht
+  - Joachim Cordes
+  publisher: The lancet. Psychiatry
+  date: '2022-03-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35276079
+  term: Poeppl, T[Author]
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35128142
+  title: Rationale and study design of a trial to assess
+  authors:
+  - T Hebel
+  - B Langguth
+  - M Schecklmann
+  - S Schoisswohl
+  - S Staudinger
+  - A Schiller
+  - L Ustohal
+  - T Sverak
+  - M Horky
+  - T Kasparek
+  - T Skront
+  - M Hyza
+  - T B Poeppl
+  - M L Riester
+  - L Schwemmer
+  - S Zimmermann
+  - K Sakreida
+  publisher: Contemporary clinical trials communications
+  date: '2022-01-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35128142
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34861978
+  title: Aberrant Brain Activity in Individuals With Psychopathy Links to Receptor
+    Distribution, Gene Expression, and Behavior.
+  authors:
+  - Juergen Dukart
+  - Ross D Markello
+  - Adrian Raine
+  - Simon B Eickhoff
+  - Timm B Poeppl
+  publisher: Biological psychiatry
+  date: '2021-11-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34861978
+  term: Poeppl, T[Author]
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34668449
+  title: Evidence and expert consensus based German guidelines for the use of repetitive
+    transcranial magnetic stimulation in depression.
+  authors:
+  - Tobias Hebel
+  - "Michael Gr\xF6zinger"
+  - Michael Landgrebe
+  - Frank Padberg
+  - Martin Schecklmann
+  - Thomas Schlaepfer
+  - "Carlos Sch\xF6nfeldt-Lecuona"
+  - Heiko Ullrich
+  - Peter Zwanzger
+  - Berthold Langguth
+  - Malek Bajbouj
+  - Bettina Bewernick
+  - Klaus Brinkmann
+  - Joachim Cordes
+  - Jan Di Pauli
+  - Peter Eichhammer
+  - Nils Freundlieb
+  - "G\xF6ran Hajak"
+  - "Jacqueline H\xF6ppner-Buchmann"
+  - Rene Hurlemann
+  - Daniel Kamp
+  - Sarah Kayser
+  - Bernhard Kis
+  - Peter M Kreuzer
+  - Jens Kuhn
+  - Melisande Lammers
+  - Beatrix Lugmayer
+  - Clemens Mielacher
+  - Thomas Nickl-Jockschat
+  - Christian Nunhofer
+  - Ulrich Palm
+  - Timm B Poeppl
+  - Thomas Polak
+  - Katrin Sakreida
+  - Alexander Sartorius
+  - Christoph Silberbauer
+  - David Zilles-Wegner
+  publisher: 'The world journal of biological psychiatry : the official journal of
+    the World Federation of Societies of Biological Psychiatry'
+  date: '2021-12-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34668449
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34655096
+  title: Exploring the neural correlates of (altered) moral cognition in psychopaths.
+  authors:
+  - Laura M Lenzen
+  - Maximilian R Donges
+  - Simon B Eickhoff
+  - Timm B Poeppl
+  publisher: Behavioral sciences & the law
+  date: '2021-10-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34655096
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34396100
+  title: Prediction of response to repetitive transcranial magnetic stimulation in
+    phantom sounds based on individual brain anatomy.
+  authors:
+  - Timm B Poeppl
+  - Martin Schecklmann
+  - Katrin Sakreida
+  - Michael Landgrebe
+  - Berthold Langguth
+  - Simon B Eickhoff
+  publisher: Brain communications
+  date: '2021-05-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34396100
+  term: Poeppl, T[Author]
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34243893
+  title: Electrophysiological evaluation of high and low-frequency transcranial random
+    noise stimulation over the auditory cortex.
+  authors:
+  - Stefan Schoisswohl
+  - Berthold Langguth
+  - Nikolaus Gebel
+  - Timm B Poeppl
+  - Peter M Kreuzer
+  - Martin Schecklmann
+  publisher: Progress in brain research
+  date: '2020-10-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34243893
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34218305
+  title: Antidepressant effect of repetitive transcranial magnetic stimulation is
+    not impaired by intake of lithium or antiepileptic drugs.
+  authors:
+  - T Hebel
+  - M A Abdelnaim
+  - M Deppe
+  - P M Kreuzer
+  - A Mohonko
+  - T B Poeppl
+  - R Rupprecht
+  - B Langguth
+  - M Schecklmann
+  publisher: European archives of psychiatry and clinical neuroscience
+  date: '2021-07-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34218305
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33931185
+  title: The more the merrier? Preliminary results regarding treatment duration and
+    stimulation frequency of multisite repetitive transcranial magnetic stimulation
+    in chronic tinnitus.
+  authors:
+  - Peter M Kreuzer
+  - Timm B Poeppl
+  - Veronika Vielsmeier
+  - Martin Schecklmann
+  - Berthold Langguth
+  - Astrid Lehner
+  publisher: Progress in brain research
+  date: '2021-03-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33931185
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33637213
+  title: 'Tinnitus and tinnitus disorder: Theoretical and operational definitions
+    (an international multidisciplinary proposal).'
+  authors:
+  - Dirk De Ridder
+  - Winfried Schlee
+  - Sven Vanneste
+  - Alain Londero
+  - Nathan Weisz
+  - Tobias Kleinjung
+  - Giriraj Singh Shekhawat
+  - "Ana Bel\xE9n Elgoyhen"
+  - Jae-Jin Song
+  - Gerhard Andersson
+  - Divya Adhia
+  - Andreia Aparecida de Azevedo
+  - David M Baguley
+  - Eberhard Biesinger
+  - Ana Carolina Binetti
+  - Luca Del Bo
+  - Christopher R Cederroth
+  - Rilana Cima
+  - Jos J Eggermont
+  - Ricardo Figueiredo
+  - Thomas E Fuller
+  - Silvano Gallus
+  - Annick Gilles
+  - Deborah A Hall
+  - Paul Van de Heyning
+  - Derek J Hoare
+  - Eman M Khedr
+  - Dimitris Kikidis
+  - Maria Kleinstaeuber
+  - Peter M Kreuzer
+  - Jen-Tsung Lai
+  - Jose Miguel Lainez
+  - Michael Landgrebe
+  - Lieber Po-Hung Li
+  - Hubert H Lim
+  - Tien-Chen Liu
+  - Jose Antonio Lopez-Escamez
+  - Birgit Mazurek
+  - Aage R Moller
+  - Patrick Neff
+  - Christo Pantev
+  - Shi Nae Park
+  - Jay F Piccirillo
+  - Timm B Poeppl
+  - Josef P Rauschecker
+  - Richard Salvi
+  - Tanit Ganz Sanchez
+  - Martin Schecklmann
+  - Axel Schiller
+  - Grant D Searchfield
+  - Richard Tyler
+  - Veronika Vielsmeier
+  - Johan W S Vlaeyen
+  - Jinsheng Zhang
+  - Yiwen Zheng
+  - Matteo de Nora
+  - Berthold Langguth
+  publisher: Progress in brain research
+  date: '2021-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33637213
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33086145
+  title: Bifrontal high-frequency transcranial random noise stimulation is not effective
+    as an add-on treatment in depression.
+  authors:
+  - Martin Schecklmann
+  - Vahid Nejati
+  - Timm B Poeppl
+  - Juliette Peytard
+  - Rainer Rupprecht
+  - Thomas C Wetter
+  - Berthold Langguth
+  - Peter M Kreuzer
+  publisher: Journal of psychiatric research
+  date: '2020-10-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33086145
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32648109
+  title: Concomitant lorazepam use and antidepressive efficacy of repetitive transcranial
+    magnetic stimulation in a naturalistic setting.
+  authors:
+  - M Deppe
+  - M Abdelnaim
+  - T Hebel
+  - P M Kreuzer
+  - T B Poeppl
+  - B Langguth
+  - M Schecklmann
+  publisher: European archives of psychiatry and clinical neuroscience
+  date: '2020-07-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32648109
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32580914
+  title: 'Repetitive Transcranial Magnetic Stimulation as a Potential Tool to Reduce
+    Sexual Arousal: A Proof of Concept Study.'
+  authors:
+  - Martin Schecklmann
+  - Katrin Sakreida
+  - Britta Oblinger
+  - Berthold Langguth
+  - Timm B Poeppl
+  publisher: The journal of sexual medicine
+  date: '2020-06-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32580914
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32371493
+  title: 'Neural substrates of sexual arousal revisited: Dependent on sex.'
+  authors:
+  - Timm B Poeppl
+  - Katrin Sakreida
+  - Simon B Eickhoff
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2020-05-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32371493
+  term: Poeppl, T[Author]
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32016814
+  title: 'Neuroelectric Correlates of Human Sexuality: A Review and Meta-Analysis.'
+  authors:
+  - Anastasios Ziogas
+  - Elmar Habermeyer
+  - Pekka Santtila
+  - Timm B Poeppl
+  - Andreas Mokros
+  publisher: Archives of sexual behavior
+  date: '2020-02-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32016814
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31969842
+  title: 'Anti-Suicidal Efficacy of Repetitive Transcranial Magnetic Stimulation in
+    Depressive Patients: A Retrospective Analysis of a Large Sample.'
+  authors:
+  - Mohamed A Abdelnaim
+  - Berthold Langguth
+  - Markus Deppe
+  - Alexey Mohonko
+  - Peter M Kreuzer
+  - Timm B Poeppl
+  - Tobias Hebel
+  - Martin Schecklmann
+  publisher: Frontiers in psychiatry
+  date: '2020-01-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31969842
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31486890
+  title: 'A randomized double-blind controlled trial to assess the benefits of amisulpride
+    and olanzapine combination treatment versus each monotherapy in acutely ill schizophrenia
+    patients (COMBINE): methods and design.'
+  authors:
+  - Christian Schmidt-Kraepelin
+  - Sandra Feyerabend
+  - Christina Engelke
+  - Mathias Riesbeck
+  - Eva Meisenzahl-Lechner
+  - Wolfgang Gaebel
+  - Pablo-Emilio Verde
+  - Henrike Kolbe
+  - Christoph U Correll
+  - Stefan Leucht
+  - Stephan Heres
+  - Michael Kluge
+  - Christian Makiol
+  - Andrea Neff
+  - Christina Lange
+  - Susanne Englisch
+  - Mathias Zink
+  - Berthold Langguth
+  - Timm Poeppl
+  - Dirk Reske
+  - Euphrosyne Gouzoulis-Mayfrank
+  - "Gerhard Gr\xFCnder"
+  - Alkomiet Hasan
+  - Anke Brockhaus-Dumke
+  - "Markus J\xE4ger"
+  - "Jessica Baumg\xE4rtner"
+  - Thomas Wobrock
+  - Joachim Cordes
+  publisher: European archives of psychiatry and clinical neuroscience
+  date: '2019-09-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31486890
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31481757
+  title: What matters and what is possible in neuroimaging meta-analyses (of psychopathy).
+  authors:
+  - Timm B Poeppl
+  - Andreas Mokros
+  - Danilo Bzdok
+  - Simon B Eickhoff
+  publisher: Molecular psychiatry
+  date: '2019-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31481757
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31439873
+  title: Daily high-frequency transcranial random noise stimulation of bilateral temporal
+    cortex in chronic tinnitus - a pilot study.
+  authors:
+  - Peter M Kreuzer
+  - Timm B Poeppl
+  - Rainer Rupprecht
+  - Veronika Vielsmeier
+  - Astrid Lehner
+  - Berthold Langguth
+  - Martin Schecklmann
+  publisher: Scientific reports
+  date: '2019-08-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31439873
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30926513
+  title: Meta-analytic Evidence for Neural Dysactivity Underlying Sexual Dysfunction.
+  authors:
+  - Timm B Poeppl
+  - Berthold Langguth
+  - Angela R Laird
+  - Simon B Eickhoff
+  publisher: The journal of sexual medicine
+  date: '2019-03-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30926513
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30038232
+  title: 'A view behind the mask of sanity: meta-analysis of aberrant brain activity
+    in psychopaths.'
+  authors:
+  - Timm B Poeppl
+  - Maximilian R Donges
+  - Andreas Mokros
+  - Rainer Rupprecht
+  - Peter T Fox
+  - Angela R Laird
+  - Danilo Bzdok
+  - Berthold Langguth
+  - Simon B Eickhoff
+  publisher: Molecular psychiatry
+  date: '2018-07-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30038232
+  term: Poeppl, T[Author]
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29515350
+  title: A Pilot Study of Peripheral Muscle Magnetic Stimulation as Add-on Treatment
+    to Repetitive Transcranial Magnetic Stimulation in Chronic Tinnitus.
+  authors:
+  - Veronika Vielsmeier
+  - Martin Schecklmann
+  - Winfried Schlee
+  - Peter M Kreuzer
+  - Timm B Poeppl
+  - Rainer Rupprecht
+  - Berthold Langguth
+  - Astrid Lehner
+  publisher: Frontiers in neuroscience
+  date: '2018-02-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29515350
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29064602
+  title: Brain stimulation-induced neuroplasticity underlying therapeutic response
+    in phantom sounds.
+  authors:
+  - Timm B Poeppl
+  - Berthold Langguth
+  - Astrid Lehner
+  - Thomas Frodl
+  - Rainer Rupprecht
+  - Peter M Kreuzer
+  - Michael Landgrebe
+  - Martin Schecklmann
+  publisher: Human brain mapping
+  date: '2017-10-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29064602
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28981875
+  title: 'Predicting Response to Repetitive Transcranial Magnetic Stimulation in Patients
+    With Schizophrenia Using Structural Magnetic Resonance Imaging: A Multisite Machine
+    Learning Analysis.'
+  authors:
+  - Nikolaos Koutsouleris
+  - Thomas Wobrock
+  - Birgit Guse
+  - Berthold Langguth
+  - Michael Landgrebe
+  - Peter Eichhammer
+  - Elmar Frank
+  - Joachim Cordes
+  - "Wolfgang W\xF6lwer"
+  - Francesco Musso
+  - Georg Winterer
+  - Wolfgang Gaebel
+  - "G\xF6ran Hajak"
+  - Christian Ohmann
+  - Pablo E Verde
+  - Marcella Rietschel
+  - Raees Ahmed
+  - William G Honer
+  - Dominic Dwyer
+  - Farhad Ghaseminejad
+  - Peter Dechent
+  - Berend Malchow
+  - Peter M Kreuzer
+  - Tim B Poeppl
+  - Thomas Schneider-Axmann
+  - Peter Falkai
+  - Alkomiet Hasan
+  publisher: Schizophrenia bulletin
+  date: '2018-08-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28981875
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28428769
+  title: Individualized Repetitive Transcranial Magnetic Stimulation Treatment in
+    Chronic Tinnitus?
+  authors:
+  - Peter M Kreuzer
+  - Timm B Poeppl
+  - Rainer Rupprecht
+  - Veronika Vielsmeier
+  - Astrid Lehner
+  - Berthold Langguth
+  - Martin Schecklmann
+  publisher: Frontiers in neurology
+  date: '2017-04-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28428769
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28072813
+  title: A Case Report on Red Ear Syndrome with Tinnitus Successfully Treated with
+    Transcranial Random Noise Stimulation.
+  authors:
+  - Peter M Kreuzer
+  - Veronika Vielsmeier
+  - Timm B Poeppl
+  - Berthold Langguth
+  publisher: Pain physician
+  date: '2017-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28072813
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27742561
+  title: 'The neural basis of sex differences in sexual behavior: A quantitative meta-analysis.'
+  authors:
+  - Timm B Poeppl
+  - Berthold Langguth
+  - Rainer Rupprecht
+  - Adam Safron
+  - Danilo Bzdok
+  - Angela R Laird
+  - Simon B Eickhoff
+  publisher: Frontiers in neuroendocrinology
+  date: '2016-10-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27742561
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27725655
+  title: Structural brain changes are associated with response of negative symptoms
+    to prefrontal repetitive transcranial magnetic stimulation in patients with schizophrenia.
+  authors:
+  - A Hasan
+  - T Wobrock
+  - B Guse
+  - B Langguth
+  - M Landgrebe
+  - P Eichhammer
+  - E Frank
+  - J Cordes
+  - "W W\xF6lwer"
+  - F Musso
+  - G Winterer
+  - W Gaebel
+  - G Hajak
+  - C Ohmann
+  - P E Verde
+  - M Rietschel
+  - R Ahmed
+  - W G Honer
+  - P Dechent
+  - B Malchow
+  - M F U Castro
+  - D Dwyer
+  - C Cabral
+  - P M Kreuzer
+  - T B Poeppl
+  - T Schneider-Axmann
+  - P Falkai
+  - N Koutsouleris
+  publisher: Molecular psychiatry
+  date: '2016-10-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27725655
+  term: Poeppl, T[Author]
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:27339689
+  title: A neural circuit encoding sexual preference in humans.
+  authors:
+  - Timm B Poeppl
+  - Berthold Langguth
+  - Rainer Rupprecht
+  - Angela R Laird
+  - Simon B Eickhoff
+  publisher: Neuroscience and biobehavioral reviews
+  date: '2016-06-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27339689
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27315823
+  title: A proof-of-concept study on the combination of repetitive transcranial magnetic
+    stimulation and relaxation techniques in chronic tinnitus.
+  authors:
+  - Peter M Kreuzer
+  - Timm B Poeppl
+  - Jan Bulla
+  - Winfried Schlee
+  - Astrid Lehner
+  - Berthold Langguth
+  - Martin Schecklmann
+  publisher: 'Journal of neural transmission (Vienna, Austria : 1996)'
+  date: '2016-06-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27315823
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27090056
+  title: Imbalance in subregional connectivity of the right temporoparietal junction
+    in major depression.
+  authors:
+  - Timm B Poeppl
+  - "Veronika I M\xFCller"
+  - Felix Hoffstaedter
+  - Danilo Bzdok
+  - Angela R Laird
+  - Peter T Fox
+  - Berthold Langguth
+  - Rainer Rupprecht
+  - Christian Sorg
+  - Valentin Riedl
+  - Roberto Goya-Maldonado
+  - Oliver Gruber
+  - Simon B Eickhoff
+  publisher: Human brain mapping
+  date: '2016-04-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27090056
+  term: Poeppl, T[Author]
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26667790
+  title: Combined rTMS treatment targeting the Anterior Cingulate and the Temporal
+    Cortex for the Treatment of Chronic Tinnitus.
+  authors:
+  - Peter M Kreuzer
+  - Astrid Lehner
+  - Winfried Schlee
+  - Veronika Vielsmeier
+  - Martin Schecklmann
+  - Timm B Poeppl
+  - Michael Landgrebe
+  - Rainer Rupprecht
+  - Berthold Langguth
+  publisher: Scientific reports
+  date: '2015-12-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26667790
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26583152
+  title: Efficacy and Safety of Repeated Courses of rTMS Treatment in Patients with
+    Chronic Subjective Tinnitus.
+  authors:
+  - Astrid Lehner
+  - Martin Schecklmann
+  - Timm B Poeppl
+  - Peter M Kreuzer
+  - Juliette Peytard
+  - Elmar Frank
+  - Berthold Langguth
+  publisher: BioMed research international
+  date: '2015-10-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26583152
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26583109
+  title: 'Psychophysiological Associations between Chronic Tinnitus and Sleep: A Cross
+    Validation of Tinnitus and Insomnia Questionnaires.'
+  authors:
+  - Martin Schecklmann
+  - Maximilian Pregler
+  - Peter M Kreuzer
+  - Timm B Poeppl
+  - Astrid Lehner
+  - "Tatjana Cr\xF6nlein"
+  - Thomas C Wetter
+  - Elmar Frank
+  - Michael Landgrebe
+  - Berthold Langguth
+  publisher: BioMed research international
+  date: '2015-10-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26583109
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26222969
+  title: A Temporal Link Between Epileptiform Brain Activity, Schizotypy, and Pedophilia.
+  authors:
+  - Timm B Poeppl
+  - Juliette Peytard
+  - Berthold Langguth
+  publisher: The Journal of neuropsychiatry and clinical neurosciences
+  date: '2015-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26222969
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25733379
+  title: Connectivity and functional profiling of abnormal brain structures in pedophilia.
+  authors:
+  - Timm B Poeppl
+  - Simon B Eickhoff
+  - Peter T Fox
+  - Angela R Laird
+  - Rainer Rupprecht
+  - Berthold Langguth
+  - Danilo Bzdok
+  publisher: Human brain mapping
+  date: '2015-03-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25733379
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25556214
+  title: Sexual motivation is reflected by stimulus-dependent motor cortex excitability.
+  authors:
+  - Martin Schecklmann
+  - Kristina Engelhardt
+  - Julian Konzok
+  - Rainer Rupprecht
+  - Mark W Greenlee
+  - Andreas Mokros
+  - Berthold Langguth
+  - Timm B Poeppl
+  publisher: Social cognitive and affective neuroscience
+  date: '2015-01-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25556214
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25541389
+  title: 'The ACDC pilot trial: targeting the anterior cingulate by double cone coil
+    rTMS for the treatment of depression.'
+  authors:
+  - Peter M Kreuzer
+  - Martin Schecklmann
+  - Astrid Lehner
+  - Thomas C Wetter
+  - Timm B Poeppl
+  - Rainer Rupprecht
+  - Dirk de Ridder
+  - Michael Landgrebe
+  - Berthold Langguth
+  publisher: Brain stimulation
+  date: '2014-11-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25541389
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25430687
+  title: 'Bilateral prefrontal rTMS and theta burst TMS as an add-on treatment for
+    depression: a randomized placebo controlled trial.'
+  authors:
+  - Julia Prasser
+  - Martin Schecklmann
+  - Timm B Poeppl
+  - Elmar Frank
+  - Peter M Kreuzer
+  - Goeran Hajak
+  - Rainer Rupprecht
+  - Michael Landgrebe
+  - Berthold Langguth
+  publisher: 'The world journal of biological psychiatry : the official journal of
+    the World Federation of Societies of Biological Psychiatry'
+  date: '2014-11-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25430687
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24996510
+  title: 'Feasibility, safety and efficacy of transcutaneous vagus nerve stimulation
+    in chronic tinnitus: an open pilot study.'
+  authors:
+  - Peter M Kreuzer
+  - Michael Landgrebe
+  - Markus Resch
+  - Oliver Husser
+  - Martin Schecklmann
+  - Florian Geisreiter
+  - Timm B Poeppl
+  - Sarah J Prasser
+  - Goeran Hajak
+  - Rainer Rupprecht
+  - Berthold Langguth
+  publisher: Brain stimulation
+  date: '2014-06-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24996510
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24991438
+  title: Structural brain changes following left temporal low-frequency rTMS in patients
+    with subjective tinnitus.
+  authors:
+  - Astrid Lehner
+  - Berthold Langguth
+  - Timm B Poeppl
+  - Rainer Rupprecht
+  - "G\xF6ran Hajak"
+  - Michael Landgrebe
+  - Martin Schecklmann
+  publisher: Neural plasticity
+  date: '2014-06-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24991438
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24967106
+  title: Reduced variability of auditory alpha activity in chronic tinnitus.
+  authors:
+  - Winfried Schlee
+  - Martin Schecklmann
+  - Astrid Lehner
+  - Peter M Kreuzer
+  - Veronika Vielsmeier
+  - Timm B Poeppl
+  - Berthold Langguth
+  publisher: Neural plasticity
+  date: '2014-05-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24967106
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24794881
+  title: Antipsychotic treatment with quetiapine increases the cortical silent period.
+  authors:
+  - Elmar Frank
+  - Michael Landgrebe
+  - Timm B Poeppl
+  - Martin Schecklmann
+  - Peter M Kreuzer
+  - Julia Prasser
+  - Rainer Rupprecht
+  - Peter Eichhammer
+  - "G\xF6ran Hajak"
+  - Berthold Langguth
+  publisher: Schizophrenia research
+  date: '2014-04-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24794881
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24423214
+  title: Amygdalohippocampal neuroplastic changes following neuroleptic treatment
+    with quetiapine in first-episode schizophrenia.
+  authors:
+  - Timm B Poeppl
+  - Elmar Frank
+  - Martin Schecklmann
+  - Peter M Kreuzer
+  - S Julia Prasser
+  - Rainer Rupprecht
+  - "G\xF6ran Hajak"
+  - Berthold Langguth
+  - Michael Landgrebe
+  publisher: The international journal of neuropsychopharmacology
+  date: '2014-01-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24423214
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23968498
+  title: 'Comparing single-site with multisite rTMS for the treatment of chronic tinnitus
+    - clinical effects and neuroscientific insights: study protocol for a randomized
+    controlled trial.'
+  authors:
+  - Astrid Lehner
+  - Martin Schecklmann
+  - Peter M Kreuzer
+  - Timm B Poeppl
+  - Rainer Rupprecht
+  - Berthold Langguth
+  publisher: Trials
+  date: '2013-08-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23968498
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23674246
+  title: 'The functional neuroanatomy of male psychosexual and physiosexual arousal:
+    a quantitative meta-analysis.'
+  authors:
+  - Timm B Poeppl
+  - Berthold Langguth
+  - Angela R Laird
+  - Simon B Eickhoff
+  publisher: Human brain mapping
+  date: '2013-05-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23674246
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23435735
+  title: 'Auditory cortex is implicated in tinnitus distress: a voxel-based morphometry
+    study.'
+  authors:
+  - Martin Schecklmann
+  - Astrid Lehner
+  - Timm B Poeppl
+  - Peter M Kreuzer
+  - Rainer Rupprecht
+  - Julia Rackl
+  - Julia Burger
+  - Elmar Frank
+  - "G\xF6ran Hajak"
+  - Berthold Langguth
+  - Michael Landgrebe
+  publisher: Brain structure & function
+  date: '2013-02-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23435735
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23399486
+  title: Association between brain structure and phenotypic characteristics in pedophilia.
+  authors:
+  - Timm B Poeppl
+  - Joachim Nitschke
+  - Pekka Santtila
+  - Martin Schecklmann
+  - Berthold Langguth
+  - Mark W Greenlee
+  - Michael Osterheider
+  - Andreas Mokros
+  publisher: Journal of psychiatric research
+  date: '2013-02-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23399486
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23229756
+  title: 'Multisite rTMS for the treatment of chronic tinnitus: stimulation of the
+    cortical tinnitus network--a pilot study.'
+  authors:
+  - Astrid Lehner
+  - Martin Schecklmann
+  - Timm B Poeppl
+  - Peter M Kreuzer
+  - Veronika Vielsmeier
+  - Rainer Rupprecht
+  - Michael Landgrebe
+  - Berthold Langguth
+  publisher: Brain topography
+  date: '2012-12-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23229756
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22891061
+  title: 'Transcutaneous vagus nerve stimulation: retrospective assessment of cardiac
+    safety in a pilot study.'
+  authors:
+  - Peter M Kreuzer
+  - Michael Landgrebe
+  - Oliver Husser
+  - Markus Resch
+  - Martin Schecklmann
+  - Florian Geisreiter
+  - Timm B Poeppl
+  - Sarah Julia Prasser
+  - Goeran Hajak
+  - Berthold Langguth
+  publisher: Frontiers in psychiatry
+  date: '2012-08-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22891061
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22613349
+  title: 'Cluster analysis for identifying sub-types of tinnitus: a positron emission
+    tomography and voxel-based morphometry study.'
+  authors:
+  - Martin Schecklmann
+  - Astrid Lehner
+  - Timm B Poeppl
+  - Peter M Kreuzer
+  - "G\xF6ran Hajak"
+  - Michael Landgrebe
+  - Berthold Langguth
+  publisher: Brain research
+  date: '2012-05-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22613349
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22509155
+  title: 'Neuroimaging and neuromodulation: complementary approaches for identifying
+    the neuronal correlates of tinnitus.'
+  authors:
+  - Berthold Langguth
+  - Martin Schecklmann
+  - Astrid Lehner
+  - Michael Landgrebe
+  - Timm Benjamin Poeppl
+  - Peter Michal Kreuzer
+  - Winfried Schlee
+  - Nathan Weisz
+  - Sven Vanneste
+  - Dirk De Ridder
+  publisher: Frontiers in systems neuroscience
+  date: '2012-04-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22509155
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22383902
+  title: Predictors for rTMS response in chronic tinnitus.
+  authors:
+  - Astrid Lehner
+  - Martin Schecklmann
+  - Michael Landgrebe
+  - Peter M Kreuzer
+  - Timm B Poeppl
+  - Elmar Frank
+  - Veronika Vielsmeier
+  - Tobias Kleinjung
+  - Rainer Rupprecht
+  - Berthold Langguth
+  publisher: Frontiers in systems neuroscience
+  date: '2012-02-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22383902
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22069382
+  title: Can Temporal Repetitive Transcranial Magnetic Stimulation be Enhanced by
+    Targeting Affective Components of Tinnitus with Frontal rTMS? A Randomized Controlled
+    Pilot Trial.
+  authors:
+  - Peter Michael Kreuzer
+  - Michael Landgrebe
+  - Martin Schecklmann
+  - Timm B Poeppl
+  - Veronika Vielsmeier
+  - Goeran Hajak
+  - Tobias Kleinjung
+  - Berthold Langguth
+  publisher: Frontiers in systems neuroscience
+  date: '2011-11-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22069382
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22021023
+  title: 'Neural correlates of tinnitus duration and distress: a positron emission
+    tomography study.'
+  authors:
+  - Martin Schecklmann
+  - Michael Landgrebe
+  - Timm B Poeppl
+  - Peter Kreuzer
+  - "Peter M\xE4nner"
+  - "J\xF6rg Marienhagen"
+  - David S Wack
+  - Tobias Kleinjung
+  - "G\xF6ran Hajak"
+  - Berthold Langguth
+  publisher: Human brain mapping
+  date: '2011-10-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22021023
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21956608
+  title: 'Hypothermia associated with antipsychotic drug use: a clinical case series
+    and review of current literature.'
+  authors:
+  - Peter Kreuzer
+  - Michael Landgrebe
+  - Markus Wittmann
+  - Martin Schecklmann
+  - Timm B Poeppl
+  - Goeran Hajak
+  - Berthold Langguth
+  publisher: Journal of clinical pharmacology
+  date: '2011-09-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21956608
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21808984
+  title: 'Treatment of chronic tinnitus with repeated sessions of prefrontal transcranial
+    direct current stimulation: outcomes from an open-label pilot study.'
+  authors:
+  - Elmar Frank
+  - Martin Schecklmann
+  - Michael Landgrebe
+  - Julia Burger
+  - Peter Kreuzer
+  - Timm B Poeppl
+  - Tobias Kleinjung
+  - "G\xF6ran Hajak"
+  - Berthold Langguth
+  publisher: Journal of neurology
+  date: '2011-08-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21808984
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21626387
+  title: '[Hypothermia under olanzapine treatment: clinical case series and review
+    of current literature].'
+  authors:
+  - P Kreuzer
+  - M Landgrebe
+  - M Wittmann
+  - G Hajak
+  - M Schecklmann
+  - T B Poeppl
+  - B Langguth
+  publisher: Der Nervenarzt
+  date: '2012-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21626387
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21477019
+  title: 'Functional cortical and subcortical abnormalities in pedophilia: a combined
+    study using a choice reaction time task and fMRI.'
+  authors:
+  - Timm B Poeppl
+  - Joachim Nitschke
+  - Beate Dombert
+  - Pekka Santtila
+  - Mark W Greenlee
+  - Michael Osterheider
+  - Andreas Mokros
+  publisher: The journal of sexual medicine
+  date: '2011-04-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21477019
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: doi:10.1038/s44220-023-00105-0
+  title: Aberrant brain activity in pedophilia links to receptor distribution, gene
+    expression, and behavior
+  authors:
+  - "Gereon J. Schnellb\xE4cher"
+  - Juergen Dukart
+  - Justine Y. Hansen
+  - Ross D. Markello
+  - Andreas Mokros
+  - Viktoria Pietsch
+  - Inka Ristow
+  - Katrin Sakreida
+  - Martin Walter
+  - Simon B. Eickhoff
+  - Timm B. Poeppl
+  publisher: Nature Mental Health
+  date: '2023-08-14'
+  link: https://doi.org/g9d263
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s44220-023-00200-2
+  title: "Asymmetry, cytoarchitectonic morphology and genetics associated with Broca\u2019\
+    s area in schizophrenia"
+  authors:
+  - Saskia Zimmermann
+  - Katrin Sakreida
+  - Sebastian Bludau
+  - Julia A. Camilleri
+  - Felix Hoffstaedter
+  - Dominique I. Pelzer
+  - "Andr\xE9 Aleman"
+  - "Torsten Br\xFCckner"
+  - Birgit Derntl
+  - Elmar Frank
+  - Thomas Frodl
+  - Paola Fuentes-Claramonte
+  - "Mar\xEDa \xC1ngeles Garc\xEDa-Le\xF3n"
+  - Oliver Gruber
+  - "G\xF6ran Hajak"
+  - Stefan Heim
+  - Renaud Jardri
+  - Lydia Kogler
+  - Peter M. Kreuzer
+  - Daniela Mirlach
+  - Michael Landgrebe
+  - Berthold Langguth
+  - Edith Pomarol-Clotet
+  - Julia Prasser
+  - Martin Schecklmann
+  - Kang Sim
+  - Joan Soler-Vidal
+  - Iris E. Sommer
+  - Juan H. Zhou
+  - "Thomas W. M\xFChleisen"
+  - Simon B. Eickhoff
+  - Timm B. Poeppl
+  publisher: Nature Mental Health
+  date: '2024-01-29'
+  link: https://doi.org/g9d265
+  image: images/nmhasymmetry.png
   plugin: sources.py
   file: sources.yaml

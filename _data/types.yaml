@@ -2,6 +2,8 @@
 
 # team member roles
 
+researcher:
+
 principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
@@ -44,7 +46,7 @@ external:
   tooltip: External link
 
 home-page:
-  icon: fa-solid fa-house-user
+  icon: fa-solid fa-globe
   text: Home Page
   tooltip: Home page
 

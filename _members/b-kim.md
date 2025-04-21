@@ -6,14 +6,15 @@ description: Postdoc
 group: 
 links:
   home-page: https://hk-nguyen-math.github.io
+  email: hoang-kim.nguyen@klinik.uni-regensburg.de
 ---
 
 
 {% capture col1 %}
 ## cv
-- 2018 PhD Mathematics, University of Regensburg
-- 2014 MSc Mathematics, University of Bonn
-- 2011 BSc Mathematics, Technical University Berlin
+- 2018: PhD Mathematics, University of Regensburg
+- 2014: MSc Mathematics, University of Bonn
+- 2011: BSc Mathematics, Technical University Berlin
 {% endcapture %}
 
 {% capture col2 %}

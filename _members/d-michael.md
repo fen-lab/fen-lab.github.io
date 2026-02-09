@@ -13,8 +13,8 @@ links:
 - Since 2023: Research Assistant using machine learning methods to study brain connectivity in neuroimaging, University Hospital Regensburg
 
 
-- Since 2024 – MSc. Autonomy Technologies, FAU Erlangen-Nürnberg
-- 2019–2023 – BSc. Biomedical Engineering, OTH Regensburg
+- Since 2024: MSc. Autonomy Technologies, FAU Erlangen-Nürnberg
+- 2019–2023: BSc. Biomedical Engineering, OTH Regensburg
 {% endcapture %}
 
 {% capture col2 %}

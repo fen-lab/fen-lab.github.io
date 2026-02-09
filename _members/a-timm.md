@@ -5,7 +5,7 @@ role: researcher
 description: Associate Professor
 aliases: Poeppl
 links:
-  email: timm.poeppl@ukr.de
+  email: timm.poeppl@klinik.uni-regensburg.de
   twitter: timmpoe
 ---
 

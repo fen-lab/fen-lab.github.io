@@ -1,5 +1,56 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41332701
+  title: Unveiling the Multifaceted Networks of the Left DLPFC for Precision TMS Targeting.
+  authors:
+  - Lya K Paas Oliveros
+  - Timm B Poeppl
+  - Niels Reuter
+  - Kaustubh R Patil
+  - Sarah Kreuzer
+  - Nga Yan Tse
+  - Robin F H Cash
+  - Felix Hoffstaedter
+  - Simon B Eickhoff
+  - "Veronika I M\xFCller"
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2025-11-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41332701
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40933152
+  title: Unmet needs in precision psychiatry.
+  authors:
+  - Philipp G Sand
+  - Timm B Poeppl
+  - Vera Roessler
+  publisher: World journal of psychiatry
+  date: '2025-09-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40933152
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40389305
+  title: Comparison of effectiveness of common targeting heuristics in repetitive
+    transcranial magnetic stimulation treatment of depression.
+  authors:
+  - Katrin Sakreida
+  - Nicholas T Trapp
+  - Sarah Kreuzer
+  - Ulrike Rubin
+  - Dieter Schnabel
+  - "Jana Hovan\u010D\xE1kov\xE1"
+  - Alexander T Sack
+  - Irene Neuner
+  - Thomas Frodl
+  - Timm B Poeppl
+  publisher: BMJ mental health
+  date: '2025-05-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40389305
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39279159
   title: Motor-evoked potentials as biomarkers for sexual arousal?
   authors:

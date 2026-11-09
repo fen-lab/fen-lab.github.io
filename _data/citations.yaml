@@ -1,5 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42799904
+  title: 'Theta burst stimulation with 80 and 120% resting motor threshold do not
+    differ in their antidepressant efficacy: a retrospective analysis.'
+  authors:
+  - Mohamed A Abdelnaim
+  - Andreas Reissmann
+  - Katharina Kerkel
+  - Mohamed Aamer
+  - Johannes Huebner
+  - Timm B Poeppl
+  - Stefan Schoisswohl
+  - Berthold Langguth
+  publisher: European archives of psychiatry and clinical neuroscience
+  date: '2026-09-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42799904
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42203973
+  title: 'Beyond fear circuits: multiscale neurobiological architecture of panic disorder.'
+  authors:
+  - Katharina A Zientek
+  - Juergen Dukart
+  - Sarah Kreuzer
+  - Katrin Sakreida
+  - "Mario Rast\xE4tter"
+  - "Milo\u0161 Stankovi\u0107"
+  - Rainer Rupprecht
+  - Katharina Domschke
+  - Simon B Eickhoff
+  - Justine Y Hansen
+  - Timm B Poeppl
+  publisher: Molecular psychiatry
+  date: '2026-05-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42203973
+  term: Poeppl, T[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41332701
   title: Unveiling the Multifaceted Networks of the Left DLPFC for Precision TMS Targeting.
   authors:

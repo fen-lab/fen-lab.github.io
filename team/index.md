@@ -7,10 +7,15 @@ nav:
 
 ## researchers
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'researcher'" %}
+<!-- {% include list.html data="members" component="portrait" filter="role != 'pi'" %} -->
 
 {% include section.html %}
+## contact
+
+{% include list.html data="members" component="portrait" filter="role == 'secretary'" %}
+{% include section.html %}
+
 ## students
 
 {% capture col1 %}
@@ -27,14 +32,14 @@ nav:
 - Jamila Martin (Dr. med.)
 - Jana Mattes (Dr. med.)
 - Annika Pfänder (Dr. med.)
-- Viktoria Pietsch (Dr. med.)
 - Mario Rastätter (Dr. med.)
+- Anna Sperlein (Dr. med.)
+- Oliver Totzauer (Dr. med.)
 - Luise Riester (Dr. med.)
-- Stefanie Ruhland (Dr. med.)
 {% endcapture %}
 
 {% capture col3 %}
-- Julia Schlögl (Dr. med. dent.)
+- Ruth Weppelmann (MA)
 - Sophia Zieger (Dr. med.)
 - Katharina Zientek (Dr. med.)
 - Saskia Zimmermann, MSc (PhD)
@@ -46,6 +51,10 @@ nav:
 {% include section.html %}
 ## former members
 
+- Michael Bentsch
+- Viktoria Pietsch (Dr. med.)
+- Stefanie Ruhland (Dr. med.)
+- Julia Schlögl (Dr. med. dent.)
 - Franca Schultheis (MSc)
 - Daniela Mirlach (Dr. med.)
 - Maximilian Donges (Dr. med. dent.)

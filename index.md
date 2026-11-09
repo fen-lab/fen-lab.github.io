@@ -10,8 +10,7 @@ We employ magnetic resonance imaging (MRI), metaâ€‘analytic approaches, machineâ
 
 ## researchers
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'researcher'" %}
 
 {%
   include button.html
@@ -25,6 +24,15 @@ We employ magnetic resonance imaging (MRI), metaâ€‘analytic approaches, machineâ
 {% include section.html %}
 
 ## research highlights
+
+{% capture content %}
+{% include figure.html image="images/mol_psyc_panic.png" width="200px" %}
+{% endcapture %}
+{% include float.html content=content %}
+
+{% include citation.html lookup="Beyond fear circuits: multiscale neurobiological architecture of panic disorder." %}
+
+{% include float.html clear=true %}
 
 {% capture content %}
 {% include figure.html image="images/nmhasymmetry.png" width="200px" %}
@@ -50,6 +58,15 @@ We employ magnetic resonance imaging (MRI), metaâ€‘analytic approaches, machineâ
 {% include float.html content=content %}
 
 {% include citation.html lookup="Amisulpride and olanzapine combination treatment versus each monotherapy in acutely ill patients with schizophrenia in Germany (COMBINE): a double-blind randomised controlled trial" %}
+
+{% include float.html clear=true %}
+
+{% capture content %}
+{% include figure.html image="images/biolpsy.jpg" width="200px" %}
+{% endcapture %}
+{% include float.html content=content %}
+
+{% include citation.html lookup="Aberrant Brain Activity in Individuals With Psychopathy Links to Receptor Distribution, Gene Expression, and Behavior" %}
 
 {% include float.html clear=true %}
 
@@ -80,32 +97,24 @@ We employ magnetic resonance imaging (MRI), metaâ€‘analytic approaches, machineâ
 
 {% include float.html clear=true %}
 
-{% capture content %}
-{% include figure.html image="images/hbm.jpg" width="200px" %}
-{% endcapture %}
-{% include float.html content=content %}
+<!-- {% capture content %} -->
+<!-- {% include figure.html image="images/hbm.jpg" width="200px" %} -->
+<!-- {% endcapture %} -->
+<!-- {% include float.html content=content %} -->
+<!---->
+<!-- {% include citation.html lookup="Imbalance in subregional connectivity of the right temporoparietal junction in major depression" %} -->
+<!---->
+<!-- {% include float.html clear=true %} -->
 
-{% include citation.html lookup="Imbalance in subregional connectivity of the right temporoparietal junction in major depression" %}
+<!-- {% capture content %} -->
+<!-- {% include figure.html image="images/m_cover.jpeg" width="200px" %} -->
+<!-- {% endcapture %} -->
+<!-- {% include float.html content=content %} -->
+<!---->
+<!-- {% include citation.html lookup="Pattern learning reveals brain asymmetry to be linked to socioeconomic status" %} -->
+<!---->
+<!-- {% include float.html clear=true %} -->
 
-{% include float.html clear=true %}
-
-{% capture content %}
-{% include figure.html image="images/m_cover.jpeg" width="200px" %}
-{% endcapture %}
-{% include float.html content=content %}
-
-{% include citation.html lookup="Pattern learning reveals brain asymmetry to be linked to socioeconomic status" %}
-
-{% include float.html clear=true %}
-
-{% capture content %}
-{% include figure.html image="images/biolpsy.jpg" width="200px" %}
-{% endcapture %}
-{% include float.html content=content %}
-
-{% include citation.html lookup="Aberrant Brain Activity in Individuals With Psychopathy Links to Receptor Distribution, Gene Expression, and Behavior" %}
-
-{% include float.html clear=true %}
 
 {%
   include button.html

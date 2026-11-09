@@ -3,10 +3,10 @@ title: Home
 nav:
   order: 1
 ---
+We are a research group within the Department of Psychiatry at the University of Regensburg. Our work aims to understand how neurobiological alterations give rise to psychopathological symptoms.
 
-We are a research group of the Department of Psychiatry at the University of Regensburg. We investigate how neurobiological alterations manifest in psychopathological symptoms.
+We employ magnetic resonance imaging (MRI), meta‑analytic approaches, machine‑learning methods, and non‑invasive brain stimulation techniques to experimentally characterize and modulate these symptoms. Our 	research focuses on common psychiatric disorders such as depression and schizophrenia, as well as on acoustic phantom perceptions. In addition, we investigate neurobiological mechanisms underlying forensically 	relevant conditions, including psychopathy and related disorders.
 
-We utilize magnetic resonance imaging (MRI), meta-analytical methods, and non-invasive brain stimulation methods for the experimental characterization and manipulation of psychopathological symptoms. Our research focuses on common psychiatric disorders such as depression and schizophrenia, as well as acoustic phantom perceptions. We also investigate neurobiological changes that underlie forensically relevant disorders such as psychopathy.
 
 ## researchers
 

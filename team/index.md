@@ -14,30 +14,31 @@ nav:
 ## students
 
 {% capture col1 %}
+- Lisa Baumüller (Dr. med.)
 - Theresa Behle (Dr. med.)
+- Louisa Bindig (Dr. med.)
 - Michelle Deitzer (Dr. med.)
 - Jasmin Jestädt (Dr. med.)
 - Julia Kluth (Dr. med.)
 - Martin Kühner (Dr. med.)
-- Jamila Martin (Dr. med.)
 {% endcapture %}
 
 {% capture col2 %}
+- Jamila Martin (Dr. med.)
 - Jana Mattes (Dr. med.)
-- Daniela Mirlach (Dr. med.)
 - Annika Pfänder (Dr. med.)
-- Veronika Pietsch (Dr. med.)
+- Viktoria Pietsch (Dr. med.)
 - Mario Rastätter (Dr. med.)
 - Luise Riester (Dr. med.)
+- Stefanie Ruhland (Dr. med.)
 {% endcapture %}
 
 {% capture col3 %}
-
-- Franca Schultheis (MSc)
 - Julia Schlögl (Dr. med. dent.)
 - Sophia Zieger (Dr. med.)
 - Katharina Zientek (Dr. med.)
 - Saskia Zimmermann, MSc (PhD)
+- Anastasios Ziogas (Dr. med.)
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3%}
@@ -45,6 +46,8 @@ nav:
 {% include section.html %}
 ## former members
 
+- Franca Schultheis (MSc)
+- Daniela Mirlach (Dr. med.)
 - Maximilian Donges (Dr. med. dent.)
 - Chiara Jahn (MSc candidate)
 - Ulrike Rubin (Dr. med. candidate)
